@@ -18,15 +18,15 @@ This project is a Student Registration Application developed using Python. It al
 - Other Python libraries: ParagraphStyle, Letter, SimpleDocTemplate, Colors, Datetime, Regular Expressions (re), os.
 
 ## Directory Structure
-project/
-│
-├── History/
-├── .idea/
-├── README.md
-├── Update README.md
-├── Student_Reg_form.py
-├── student_data.db
-└── student_data.pdf
+- project/
+- │
+- ├── History/
+- ├── .idea/
+- ├── README.md
+- ├── Update README.md
+- ├── Student_Reg_form.py
+- ├── student_data.db
+- └── student_data.pdf
 
 
 ## Contributing
@@ -34,9 +34,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to h
 
 ## Author
 [R V Dhanush Kumar](https://github.com/RVDhanushkumar)
-
-## Acknowledgements
-- Special thanks to the contributors and maintainers of the libraries used in this project.
-- Inspired by [similar projects](https://github.com/similar_projects) and online tutorials.
-- Hat tip to anyone whose code was used as a reference.
 
