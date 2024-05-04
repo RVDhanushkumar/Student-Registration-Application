@@ -17,17 +17,6 @@ This project is a Student Registration Application developed using Python. It al
 - ReportLab: A Python library for creating PDF documents.
 - Other Python libraries: ParagraphStyle, Letter, SimpleDocTemplate, Colors, Datetime, Regular Expressions (re), os.
 
-## Directory Structure
-- project/
-- │
-- ├── History/
-- ├── .idea/
-- ├── README.md
-- ├── Update README.md
-- ├── Student_Reg_form.py
-- ├── student_data.db
-- └── student_data.pdf
-
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
